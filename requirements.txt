@@ -1,5 +1,5 @@
 streamlit == 1.49.1
-python-dotenv == 1.1.1
+python-dotenv
 nltk
 langchain-community
 langchain-text-splitters
